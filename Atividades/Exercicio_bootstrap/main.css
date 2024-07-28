@@ -1,0 +1,12 @@
+
+.container {
+  background-color: #C1C1C1;
+  max-width: 480px;
+  border-radius: 5px;
+  margin-top: 300px;
+}
+
+.container button {
+  margin: 16px 0;
+  width: 100%;
+}
